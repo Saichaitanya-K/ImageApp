@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+    <string name="ok">Ok</string>
+    <string name="error_message">Network Error. Please Try Again</string>
+</resources>
